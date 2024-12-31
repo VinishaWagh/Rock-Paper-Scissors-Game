@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1{
+    background-color: #99582a;
+    color: #ffe6a7;
+    height: 5rem;
+    line-height: 5rem;
+
+}
+
+.choice:hover{
+    opacity: 0.9;
+    cursor: pointer;
+    border-radius: 80%;
+    background-color: #99582a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.choices{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    margin-top: 6rem;
+}
+.choice{
+    height: 200px;
+    width: 200px;
+    
+}
+img{
+    height: 200px;
+    width: 150px;
+    object-fit: cover;
+}
+.scoreboard{
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    margin-top: 5rem;
+    font-size: 2rem;
+
+}
+#user, #computer, #draw{
+    font-size: 4rem;
+
+}
+.msg-container{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem
+}
+
+#msg{
+    background-color: #432818;
+    color: #FFE6A7;
+    line-height: 5rem;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+
+#reset{
+    background-color:#FFE6A7 ;
+    color: #432818;
+    height: 2.5rem;
+    line-height: 1rem;
+    font-size: 1.5rem;
+    display: inline;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid #BB9457;
+
+
+    
+
+}
+#reset:hover{
+    cursor: pointer;
+    box-shadow: 0 0 1rem rgba(67,40,24,0.3);
+
+}
+
+
+/* <palette>
+  <color name="Falu red" hex="6f1d1b" r="111" g="29" b="27" />
+  <color name="Lion" hex="bb9457" r="187" g="148" b="87" />
+  <color name="Bistre" hex="432818" r="67" g="40" b="24" />
+  <color name="Brown" hex="99582a" r="153" g="88" b="42" />
+  <color name="Peach" hex="ffe6a7" r="255" g="230" b="167" />
+</palette> */
