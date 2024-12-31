@@ -17,7 +17,7 @@ JavaScript: For game logic and interactivity.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/VinishaWagh/Rock-Paper-Scissors-Game/tree/main
 Open index.html in your browser.
 Choose Rock, Paper, or Scissors.
 
