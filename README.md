@@ -14,14 +14,10 @@ A fun and interactive Rock, Paper, Scissors game built using HTML, CSS, and Java
 - JavaScript: For game logic and interactivity.
 
 📖**How to Play**
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/VinishaWagh/Rock-Paper-Scissors-Game/tree/main
-Open index.html in your browser.
-Choose Rock, Paper, or Scissors.
-
-The computer randomly selects an option, and the winner is determined:
-* Rock beats Scissors
-* Scissors beat Paper
-* Paper beats Rock
+* Clone the repository: git clone https://github.com/VinishaWagh/Rock-Paper-Scissors-Game/tree/main
+* Open index.html in your browser.
+* Choose Rock, Paper, or Scissors.
+* The computer randomly selects an option, and the winner is determined:
+ Rock beats Scissors
+ Scissors beat Paper
+ Paper beats Rock
