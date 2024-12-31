@@ -18,6 +18,6 @@ A fun and interactive Rock, Paper, Scissors game built using HTML, CSS, and Java
 * Open index.html in your browser.
 * Choose Rock, Paper, or Scissors.
 * The computer randomly selects an option, and the winner is determined:
- Rock beats Scissors
- Scissors beat Paper
- Paper beats Rock
+ Rock beats Scissors \n
+ Scissors beat Paper \n
+ Paper beats Rock \n
