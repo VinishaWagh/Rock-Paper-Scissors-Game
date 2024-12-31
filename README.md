@@ -2,16 +2,16 @@
 A fun and interactive Rock, Paper, Scissors game built using HTML, CSS, and JavaScript. Challenge yourself or a friend to this timeless classic!
 
 🎮 **Features**
-*Single-player mode: Play against a computer with randomized choices.
-*Interactive UI: Simple and engaging design for effortless gameplay.
-*Dynamic results: Displays the winner for each round.
-*Restart game: Reset the scores and play again.
-*A scoreboard to track the total wins and losses.
+* Single-player mode: Play against a computer with randomized choices.
+* Interactive UI: Simple and engaging design for effortless gameplay.
+* Dynamic results: Displays the winner for each round.
+* Restart game: Reset the scores and play again.
+* A scoreboard to track the total wins and losses.
 
 **Technologies Used**
-HTML: For structuring the game layout.
-CSS: For modern and responsive styling.
-JavaScript: For game logic and interactivity.
+- HTML: For structuring the game layout.
+- CSS: For modern and responsive styling.
+- JavaScript: For game logic and interactivity.
 
 📖**How to Play**
 Clone the repository:
